@@ -1,0 +1,19 @@
+:root {
+  --cmarc-blue-1: #155C4F;
+  --cmarc-blue-2: #7DD6C6;
+}
+
+* {
+  margin:0px;
+  padding:0px;
+}
+
+.App {
+  background-color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
